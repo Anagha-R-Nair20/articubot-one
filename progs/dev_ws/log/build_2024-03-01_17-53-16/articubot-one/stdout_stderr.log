@@ -1,0 +1,48 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+-- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /app/build/articubot-one
+-- Install configuration: ""
+-- Installing: /app/install/articubot-one/share/articubot-one/config
+-- Installing: /app/install/articubot-one/share/articubot-one/config/empty.yaml
+-- Installing: /app/install/articubot-one/share/articubot-one/description
+-- Installing: /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro
+-- Installing: /app/install/articubot-one/share/articubot-one/launch
+-- Installing: /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py
+-- Installing: /app/install/articubot-one/share/articubot-one/worlds
+-- Installing: /app/install/articubot-one/share/articubot-one/worlds/empty.world
+-- Installing: /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one
+-- Installing: /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one
+-- Installing: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh
+-- Installing: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.dsv
+-- Installing: /app/install/articubot-one/share/articubot-one/environment/path.sh
+-- Installing: /app/install/articubot-one/share/articubot-one/environment/path.dsv
+-- Installing: /app/install/articubot-one/share/articubot-one/local_setup.bash
+-- Installing: /app/install/articubot-one/share/articubot-one/local_setup.sh
+-- Installing: /app/install/articubot-one/share/articubot-one/local_setup.zsh
+-- Installing: /app/install/articubot-one/share/articubot-one/local_setup.dsv
+-- Installing: /app/install/articubot-one/share/articubot-one/package.dsv
+-- Installing: /app/install/articubot-one/share/ament_index/resource_index/packages/articubot-one
+-- Installing: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig.cmake
+-- Installing: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig-version.cmake
+-- Installing: /app/install/articubot-one/share/articubot-one/package.xml

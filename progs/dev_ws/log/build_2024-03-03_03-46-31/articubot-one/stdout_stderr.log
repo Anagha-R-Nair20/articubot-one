@@ -1,0 +1,33 @@
+-- Found ament_cmake: 2.0.4 (/opt/ros/iron/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.14.3 (/opt/ros/iron/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Configured 'flake8' exclude dirs and/or files: 
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /app/build/articubot-one
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /app/install/articubot-one/share/articubot-one/config/empty.yaml
+-- Symlinking: /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro
+-- Symlinking: /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py
+-- Symlinking: /app/install/articubot-one/share/articubot-one/worlds/empty.world
+-- Symlinking: /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one
+-- Symlinking: /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one
+-- Symlinking: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh
+-- Symlinking: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.dsv
+-- Symlinking: /app/install/articubot-one/share/articubot-one/environment/path.sh
+-- Symlinking: /app/install/articubot-one/share/articubot-one/environment/path.dsv
+-- Symlinking: /app/install/articubot-one/share/articubot-one/local_setup.bash
+-- Symlinking: /app/install/articubot-one/share/articubot-one/local_setup.sh
+-- Symlinking: /app/install/articubot-one/share/articubot-one/local_setup.zsh
+-- Symlinking: /app/install/articubot-one/share/articubot-one/local_setup.dsv
+-- Symlinking: /app/install/articubot-one/share/articubot-one/package.dsv
+-- Symlinking: /app/install/articubot-one/share/ament_index/resource_index/packages/articubot-one
+-- Symlinking: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig.cmake
+-- Symlinking: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig-version.cmake
+-- Symlinking: /app/install/articubot-one/share/articubot-one/package.xml

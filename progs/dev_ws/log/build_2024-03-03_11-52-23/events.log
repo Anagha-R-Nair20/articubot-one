@@ -1,0 +1,58 @@
+[0.000000] (-) TimerEvent: {}
+[0.000108] (articubot-one) JobQueued: {'identifier': 'articubot-one', 'dependencies': OrderedDict()}
+[0.000136] (articubot-one) JobStarted: {'identifier': 'articubot-one'}
+[0.099434] (-) TimerEvent: {}
+[0.131128] (articubot-one) JobProgress: {'identifier': 'articubot-one', 'progress': 'cmake'}
+[0.164623] (articubot-one) JobProgress: {'identifier': 'articubot-one', 'progress': 'build'}
+[0.167592] (articubot-one) Command: {'cmd': ['/usr/bin/cmake', '--build', '/app/build/articubot-one', '--', '-j8', '-l8'], 'cwd': '/app/build/articubot-one', 'env': OrderedDict([('HOSTNAME', '5153ece9bb03'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/iron/opt/rviz_ogre_vendor/lib:/opt/ros/iron/lib/x86_64-linux-gnu:/opt/ros/iron/lib'), ('HOME', '/home/ros'), ('CYCLONEDDS_URI', '/app/cyclonedds.xml'), ('ROS_PYTHON_VERSION', '3'), ('ROS_DISTRO', 'iron'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('GAZEBO_MODEL_PATH', ':/opt/ros/iron/share/turtlebot3_gazebo/models:/opt/ros/iron/share/turtlebot3_gazebo/models:/app/ros2_ws/src/worlds/aws-robomaker-small-warehouse-world/models'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/opt/ros/iron/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('QT_DEBUG_PLUGINS', '1'), ('DISPLAY', ':0'), ('LANG', 'C.UTF-8'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/iron'), ('ROS_AUTOMATIC_DISCOVERY_RANGE', 'SUBNET'), ('PWD', '/app/build/articubot-one'), ('TURTLEBOT3_MODEL', 'waffle'), ('LC_ALL', 'C.UTF-8'), ('PYTHONPATH', '/opt/ros/iron/lib/python3.10/site-packages'), ('NVIDIA_VISIBLE_DEVICES', 'all'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/iron')]), 'shell': False}
+[0.205297] (-) TimerEvent: {}
+[0.319320] (-) TimerEvent: {}
+[0.420253] (-) TimerEvent: {}
+[0.521043] (-) TimerEvent: {}
+[0.621999] (-) TimerEvent: {}
+[0.722987] (-) TimerEvent: {}
+[0.823992] (-) TimerEvent: {}
+[0.924877] (-) TimerEvent: {}
+[1.025789] (-) TimerEvent: {}
+[1.126536] (-) TimerEvent: {}
+[1.227521] (-) TimerEvent: {}
+[1.328312] (-) TimerEvent: {}
+[1.429105] (-) TimerEvent: {}
+[1.530067] (-) TimerEvent: {}
+[1.630888] (-) TimerEvent: {}
+[1.731709] (-) TimerEvent: {}
+[1.832397] (-) TimerEvent: {}
+[1.932981] (-) TimerEvent: {}
+[1.963527] (articubot-one) CommandEnded: {'returncode': 0}
+[1.989341] (articubot-one) JobProgress: {'identifier': 'articubot-one', 'progress': 'install'}
+[2.000970] (articubot-one) Command: {'cmd': ['/usr/bin/cmake', '--install', '/app/build/articubot-one'], 'cwd': '/app/build/articubot-one', 'env': OrderedDict([('HOSTNAME', '5153ece9bb03'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/iron/opt/rviz_ogre_vendor/lib:/opt/ros/iron/lib/x86_64-linux-gnu:/opt/ros/iron/lib'), ('HOME', '/home/ros'), ('CYCLONEDDS_URI', '/app/cyclonedds.xml'), ('ROS_PYTHON_VERSION', '3'), ('ROS_DISTRO', 'iron'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('TERM', 'xterm'), ('GAZEBO_MODEL_PATH', ':/opt/ros/iron/share/turtlebot3_gazebo/models:/opt/ros/iron/share/turtlebot3_gazebo/models:/app/ros2_ws/src/worlds/aws-robomaker-small-warehouse-world/models'), ('QT_X11_NO_MITSHM', '1'), ('PATH', '/opt/ros/iron/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'), ('QT_DEBUG_PLUGINS', '1'), ('DISPLAY', ':0'), ('LANG', 'C.UTF-8'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('AMENT_PREFIX_PATH', '/opt/ros/iron'), ('ROS_AUTOMATIC_DISCOVERY_RANGE', 'SUBNET'), ('PWD', '/app/build/articubot-one'), ('TURTLEBOT3_MODEL', 'waffle'), ('LC_ALL', 'C.UTF-8'), ('PYTHONPATH', '/opt/ros/iron/lib/python3.10/site-packages'), ('NVIDIA_VISIBLE_DEVICES', 'all'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/iron')]), 'shell': False}
+[2.010608] (articubot-one) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[2.019113] (articubot-one) StdoutLine: {'line': b'-- Execute custom install script\n'}
+[2.020071] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/empty.yaml\n'}
+[2.020480] (articubot-one) StdoutLine: {'line': b'-- Symlinking: /app/install/articubot-one/share/articubot-one/description/inertial_macros.xacro\n'}
+[2.031528] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro\n'}
+[2.031870] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot_core.xacro\n'}
+[2.032232] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py\n'}
+[2.032666] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/worlds/empty.world\n'}
+[2.033014] (-) TimerEvent: {}
+[2.045783] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one\n'}
+[2.046381] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one\n'}
+[2.047004] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh\n'}
+[2.047482] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.dsv\n'}
+[2.048166] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.sh\n'}
+[2.048659] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.dsv\n'}
+[2.049139] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.bash\n'}
+[2.049616] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.sh\n'}
+[2.050078] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.zsh\n'}
+[2.050537] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.dsv\n'}
+[2.050811] (articubot-one) StdoutLine: {'line': b'-- Symlinking: /app/install/articubot-one/share/articubot-one/package.dsv\n'}
+[2.084953] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/packages/articubot-one\n'}
+[2.085788] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig.cmake\n'}
+[2.086436] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig-version.cmake\n'}
+[2.087085] (articubot-one) StdoutLine: {'line': b'-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/package.xml\n'}
+[2.092708] (articubot-one) CommandEnded: {'returncode': 0}
+[2.133152] (-) TimerEvent: {}
+[2.233686] (-) TimerEvent: {}
+[2.334333] (-) TimerEvent: {}
+[2.431367] (articubot-one) JobEnded: {'identifier': 'articubot-one', 'rc': 0}
+[2.431922] (-) EventReactorShutdown: {}
