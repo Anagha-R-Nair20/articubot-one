@@ -1,0 +1,4 @@
+Invoking command in '/app/build/articubot-one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /app/build/articubot-one -- -j8 -l8
+Invoked command in '/app/build/articubot-one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /app/build/articubot-one -- -j8 -l8
+Invoking command in '/app/build/articubot-one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /app/build/articubot-one
+Invoked command in '/app/build/articubot-one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /app/build/articubot-one

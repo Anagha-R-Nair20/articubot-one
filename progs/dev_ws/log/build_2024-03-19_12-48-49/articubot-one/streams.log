@@ -1,0 +1,35 @@
+[0.076s] Invoking command in '/app/build/articubot-one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /app/build/articubot-one -- -j8 -l8
+[2.008s] Invoked command in '/app/build/articubot-one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /app/build/articubot-one -- -j8 -l8
+[2.038s] Invoking command in '/app/build/articubot-one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /app/build/articubot-one
+[2.047s] -- Install configuration: ""
+[2.060s] -- Execute custom install script
+[2.060s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/drive_bot.rviz
+[2.061s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/empty.yaml
+[2.061s] -- Symlinking: /app/install/articubot-one/share/articubot-one/config/mapper_params_online_async.yaml
+[2.069s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/view_bot.rviz
+[2.069s] -- Symlinking: /app/install/articubot-one/share/articubot-one/description/camera.xacro
+[2.077s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/gazebo_control.xacro
+[2.077s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/inertial_macros.xacro
+[2.077s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/lidar.xacro
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot_core.xacro
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/launch/launch_sim.launch.py
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/worlds/empty.world
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/worlds/obstacles.worlds
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one
+[2.078s] -- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.dsv
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.sh
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.dsv
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.bash
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.sh
+[2.079s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.zsh
+[2.080s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.dsv
+[2.080s] -- Symlinking: /app/install/articubot-one/share/articubot-one/package.dsv
+[2.088s] -- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/packages/articubot-one
+[2.088s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig.cmake
+[2.088s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig-version.cmake
+[2.088s] -- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/package.xml
+[2.090s] Invoked command in '/app/build/articubot-one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /app/build/articubot-one

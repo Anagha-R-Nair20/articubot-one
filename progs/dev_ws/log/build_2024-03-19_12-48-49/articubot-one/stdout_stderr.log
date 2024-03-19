@@ -1,0 +1,31 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/drive_bot.rviz
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/empty.yaml
+-- Symlinking: /app/install/articubot-one/share/articubot-one/config/mapper_params_online_async.yaml
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/config/view_bot.rviz
+-- Symlinking: /app/install/articubot-one/share/articubot-one/description/camera.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/gazebo_control.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/inertial_macros.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/lidar.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/description/robot_core.xacro
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/launch/launch_sim.launch.py
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/worlds/empty.world
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/worlds/obstacles.worlds
+-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one
+-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.sh
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/environment/path.dsv
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.bash
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.sh
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.zsh
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/local_setup.dsv
+-- Symlinking: /app/install/articubot-one/share/articubot-one/package.dsv
+-- Up-to-date symlink: /app/install/articubot-one/share/ament_index/resource_index/packages/articubot-one
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig.cmake
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/cmake/articubot-oneConfig-version.cmake
+-- Up-to-date symlink: /app/install/articubot-one/share/articubot-one/package.xml

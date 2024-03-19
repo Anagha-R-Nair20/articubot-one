@@ -1,9 +1,17 @@
+/app/install/articubot-one/share/articubot-one/config/drive_bot.rviz
 /app/install/articubot-one/share/articubot-one/config/empty.yaml
+/app/install/articubot-one/share/articubot-one/config/mapper_params_online_async.yaml
+/app/install/articubot-one/share/articubot-one/config/view_bot.rviz
+/app/install/articubot-one/share/articubot-one/description/camera.xacro
+/app/install/articubot-one/share/articubot-one/description/gazebo_control.xacro
 /app/install/articubot-one/share/articubot-one/description/inertial_macros.xacro
+/app/install/articubot-one/share/articubot-one/description/lidar.xacro
 /app/install/articubot-one/share/articubot-one/description/robot.urdf.xacro
 /app/install/articubot-one/share/articubot-one/description/robot_core.xacro
+/app/install/articubot-one/share/articubot-one/launch/launch_sim.launch.py
 /app/install/articubot-one/share/articubot-one/launch/rsp.launch.py
 /app/install/articubot-one/share/articubot-one/worlds/empty.world
+/app/install/articubot-one/share/articubot-one/worlds/obstacles.worlds
 /app/install/articubot-one/share/ament_index/resource_index/package_run_dependencies/articubot-one
 /app/install/articubot-one/share/ament_index/resource_index/parent_prefix_path/articubot-one
 /app/install/articubot-one/share/articubot-one/environment/ament_prefix_path.sh
